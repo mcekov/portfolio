@@ -1,10 +1,10 @@
 import React from 'react'
-import 'Contacts.css'
+import './Contacts.css'
 
 const Contacts = (props) => {
     return (
         <div>
-            
+            Contacts
         </div>
     )
 }

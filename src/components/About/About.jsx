@@ -1,10 +1,10 @@
 import React from 'react'
-import 'About.css'
+import './About.css'
 
 const About = (props) => {
     return (
         <div>
-            
+            About
         </div>
     )
 }
