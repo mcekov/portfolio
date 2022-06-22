@@ -10,7 +10,7 @@ const HeaderSocials = (props) => {
       <a href="https://github.com" target="blank">
         <BsGithub />
       </a>
-      <a href="https://www.behance.net/" target="blank">
+      <a href="https://www.behance.net/mtsekov" target="blank">
         <BsBehance />
       </a>
     </div>
