@@ -4,7 +4,7 @@ import ME from '../../assets/me.png'
 import HeaderSocials from './HeaderSocials'
 import './Header.css'
 
-const Header = (props) => {
+const Header = () => {
   return (
     <header>
       <div className="container header__container">
@@ -16,7 +16,7 @@ const Header = (props) => {
         <div className="me">
           <img src={ME} alt="me" />
         </div>
-        <a href="#contact" className="scroll__down">
+        <a href="#contacts" className="scroll__down">
           Scroll Down
         </a>
       </div>
